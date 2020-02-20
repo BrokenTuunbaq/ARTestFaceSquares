@@ -20,7 +20,9 @@ class EnterViewController: UIViewController {
             AVCaptureDevice.requestAccess(for: .video, completionHandler: {
                 (granted: Bool) in
                 if granted {
-                    self.performSegue(withIdentifier: "EnterToInstructionSegue", sender: nil)
+                    DispatchQueue.main.async {
+                        self.performSegue(withIdentifier: "EnterToInstructionSegue", sender: nil)
+                    }
                 } else {
                     self.presentCameraSettings()
                 }
