@@ -1,0 +1,24 @@
+
+/* Class = "UIViewController"; title = "Page1onboardViewController"; ObjectID = "6jl-oj-g91"; */
+"6jl-oj-g91.title" = "Page1onboardViewController";
+
+/* Class = "UIViewController"; title = "EnterViewController"; ObjectID = "BYZ-38-t0r"; */
+"BYZ-38-t0r.title" = "EnterViewController";
+
+/* Class = "UIViewController"; title = "Page3onboardViewController"; ObjectID = "EfE-v3-Jbi"; */
+"EfE-v3-Jbi.title" = "Page3onboardViewController";
+
+/* Class = "UILabel"; text = "Без камеры ничего работать не будет"; ObjectID = "Q0x-VA-VsM"; */
+"Q0x-VA-VsM.text" = "Без камеры ничего работать не будет";
+
+/* Class = "UILabel"; text = "Разрешите доступ к камере"; ObjectID = "TvG-Z4-s0c"; */
+"TvG-Z4-s0c.text" = "Разрешите доступ к камере";
+
+/* Class = "UIViewController"; title = "Page2onboardViewController"; ObjectID = "nCU-FY-W9Q"; */
+"nCU-FY-W9Q.title" = "Page2onboardViewController";
+
+/* Class = "UIButton"; normalTitle = "Разрешить"; ObjectID = "uAz-Y0-eNv"; */
+"uAz-Y0-eNv.normalTitle" = "Разрешить";
+
+/* Class = "UIPageViewController"; title = "OnboardingViewController"; ObjectID = "yAU-GT-Eu5"; */
+"yAU-GT-Eu5.title" = "OnboardingViewController";

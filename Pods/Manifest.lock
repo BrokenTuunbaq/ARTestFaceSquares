@@ -1,0 +1,21 @@
+PODS:
+  - Permission/Camera (3.1.2):
+    - Permission/Core
+  - Permission/Core (3.1.2)
+  - Permission/Notifications (3.1.2):
+    - Permission/Core
+
+DEPENDENCIES:
+  - Permission/Camera
+  - Permission/Notifications
+
+SPEC REPOS:
+  trunk:
+    - Permission
+
+SPEC CHECKSUMS:
+  Permission: 4821359fb4d4367fb59aa16df38fbba5722ac842
+
+PODFILE CHECKSUM: 69251c8b89f318296d42ed9c867cbb1da264c3fb
+
+COCOAPODS: 1.8.4
