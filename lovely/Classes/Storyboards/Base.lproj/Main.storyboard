@@ -224,7 +224,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <arscnView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" restorationIdentifier="cameraSceneView" sceneName="cameraSceneView" allowsCameraControl="YES" translatesAutoresizingMaskIntoConstraints="NO" id="YbH-PI-yPp">
+                            <arscnView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" restorationIdentifier="cameraSceneView" sceneName="cameraSceneView" allowsCameraControl="YES" translatesAutoresizingMaskIntoConstraints="NO" id="YbH-PI-yPp">
                                 <rect key="frame" x="20" y="82" width="374" height="626"/>
                             </arscnView>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7gZ-8O-zmA">
